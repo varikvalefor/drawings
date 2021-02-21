@@ -89,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="228.00771"
-     inkscape:cy="467.4243"
+     inkscape:zoom="3.2772107"
+     inkscape:cx="267.93953"
+     inkscape:cy="447.14292"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -99,9 +99,9 @@
      showguides="true"
      inkscape:snap-object-midpoints="true"
      inkscape:window-width="1024"
-     inkscape:window-height="750"
+     inkscape:window-height="768"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="true">
     <inkscape:grid
@@ -502,7 +502,7 @@
     </g>
     <g
        id="g878-3-8-1-2-5"
-       transform="matrix(0,-0.56357055,0.17195684,0,39.12503,165.20505)">
+       transform="matrix(0,-0.56357055,0.17195684,0,39.389613,163.88213)">
       <path
          style="fill:#ffff40;fill-opacity:1;stroke:none;stroke-width:2.91038px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 89.164689,58.869531 8.73115,-43.655717 8.731141,43.655717 h -8.731141 z"
@@ -516,7 +516,7 @@
     </g>
     <g
        id="g878-3-8-0-5-3"
-       transform="matrix(-0.56357055,0,0,-0.17961702,120.57976,136.19873)">
+       transform="matrix(-0.56357055,0,0,-0.17961702,118.99226,135.66956)">
       <g
          id="g1018-9-0-5"
          transform="translate(-5.2828464e-5,13.247977)">
@@ -534,7 +534,7 @@
     </g>
     <g
        id="g878-3-8-1-3-2-7"
-       transform="matrix(0.56357055,0,0,0.1763069,8.9453407,84.322714)">
+       transform="matrix(0.56357055,0,0,0.1763069,8.7905463,84.226837)">
       <path
          style="fill:#ffff40;fill-opacity:1;stroke:none;stroke-width:2.91038px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 89.164689,58.869531 8.73115,-43.655717 8.731141,43.655717 h -8.731141 z"
